@@ -1,0 +1,6 @@
+/* Agregar al archivo de estilos globales */
+body {
+  margin: 0;
+  background: linear-gradient(45deg, #2196F3 30%, #21CBF3 90%);
+  min-height: 100vh;
+}
